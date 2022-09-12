@@ -1,5 +1,4 @@
 # Kyno
-<hr>
 
-##Links
+## Links
 Site link: https://kyno.in/
